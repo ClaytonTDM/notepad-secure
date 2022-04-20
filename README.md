@@ -1,2 +1,2 @@
-# Notepad Secure
-This is my Notepad website created because my Chromebook has no default text editor, so I made one myself. You can find this website in Opera addon form [here](https://github.com/ClaytonTDM/notepad-secure-addon), and you can use Notepad Secure for yourself [here](https://notepadsecure.cf/).
+# Notepad Secure for Opera
+This is my website, [Notepad Secure](https://notepadsecure.cf/), in Opera addon form.

@@ -119,7 +119,7 @@ function downloadFile(filename, content) {
   
   //setAttribute() Sets the value of an attribute on the specified element.
   element.setAttribute('href', fileUrl); //file location
-  element.setAttribute('download', filename); // file name
+  element.setAttribute('download', filename + '.txt'); // file name
   element.style.display = 'none';
   
   //use appendChild() method to move an element from one element to another
